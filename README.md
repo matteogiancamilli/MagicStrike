@@ -1,4 +1,4 @@
-# Magic Strike - RPG 129380 - Progetto Metodologie Di Programmazione
+# Magic Strike - Progetto Metodologie Di Programmazione
 
 Un videogioco di ruolo (RPG) a turni sviluppato in Java utilizzando JavaFX per l'interfaccia grafica e Gradle come build system.
 Il programma permette di creare un personaggio scegliendo tra diverse classi (Mago, Guerriero, Arciere), gestire un inventario e affrontare mostri in un sistema di combattimento a turni basato su abilità, cooldown e statistiche. 
